@@ -1,0 +1,6 @@
+model,CER,WER,CLS
+Baseline(Prompt_v1),12.3,12.22,50.0
+Finetune_Prompt_v1,11.22,10.60,61.2
+Finetune_Prompt_v2,8.94,13.1,65.0
+Finetune_Prompt_v3,8.28,11.1,66.2
+Finetune_Prompt_v4,4.85,8.20,67.5
